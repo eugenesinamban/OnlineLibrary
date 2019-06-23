@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#wrap {
+    background-color: beige;
+    text-align: center;
+}
+
+#header {
+    background-image: url(library.jpg);
+    height: 400px;
+    width: 100%;
+}
+
+#header h1 {
+    color: aliceblue;
+    padding-top: 150px;
+    margin-bottom: 100px;
+}
+
+#header a {
+    text-decoration: none;
+    color: beige;
+}
+
+#form {
+    margin-top: 50px;
+}
+
+#php {
+    margin: 35px 500px 35px 500px;
+    border: 2px solid black;
+}
+
+#footer {
+    background-color: dimgray;
+    height: 130px;
+    padding-top: 25px;
+    color: #e8e8e8;
+}
