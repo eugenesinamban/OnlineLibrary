@@ -64,4 +64,8 @@
         $book17 = new Book("Harry Potter and the Deathly Hallows","J.K. Rowling",607,5);
         $book18 = new Book("Fight Club","Chuck Palahniuk",208,5);
         $book19 = new Book("A Little Life","Hanya Yanagihara",720,5);
+        $book20 = new Book("A Dog's Purpose","W. Bruce Cameron",319,4);
+        $book21 = new Book("Beautiful You","Chuck Palahniuk",240,4);
+
+
 ?>
